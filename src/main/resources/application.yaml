@@ -1,0 +1,8 @@
+server:
+  port: 8181
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:15432/books_db
+    username: username
+    password: password
